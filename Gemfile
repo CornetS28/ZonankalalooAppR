@@ -60,7 +60,7 @@ gem 'figaro'
 gem 'friendly_id', '~> 5.2', '>= 5.2.3'
 gem 'gravatar_image_tag', '~> 1.2'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
-gem 'redcarpet', '~> 3.4'
+gem 'redcarpet', '~> 3.5'
 gem 'rolify', '~> 5.2'
 gem 'simple_form', '>= 3.5'
 

@@ -8,7 +8,7 @@ git_source(:github) do |repo_name|
 end
 ruby '2.6.3'
 gem 'actiontext', github: 'kobaltz/actiontext', branch: 'archive', require: 'action_text'
-gem 'carrierwave', '~> 1.1'
+gem 'carrierwave', '~> 1.3'
 gem 'image_processing'
 gem 'mini_magick'
 gem 'webpacker', '>= 4.0.x'

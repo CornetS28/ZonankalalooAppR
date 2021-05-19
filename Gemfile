@@ -29,7 +29,7 @@ gem 'rubocop', '~> 0.80.0', require: false
 
 gem 'will_paginate', '~> 3.1.0'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'puma', '~> 3.7'
+gem 'puma', '~> 4.3'
 gem 'rails', '>= 5.2.0'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
